@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="58" started-at="2022-07-25T17:25:28Z" finished-at="2022-07-25T17:25:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="58" started-at="2022-07-25T17:25:28Z" finished-at="2022-07-25T17:25:28Z">
+      <class name="qaclickacademy.Maven.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumTestCase()[pri:0, instance:qaclickacademy.Maven.SeleniumTest@47f6473]" name="SeleniumTestCase" duration-ms="1" started-at="2022-07-25T17:25:28Z" finished-at="2022-07-25T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTestCase -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:qaclickacademy.Maven.SeleniumTest@47f6473]" name="TestCase2" duration-ms="0" started-at="2022-07-25T17:25:28Z" finished-at="2022-07-25T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+      </class> <!-- qaclickacademy.Maven.SeleniumTest -->
+      <class name="qaclickacademy.Maven.AppiumTest">
+        <test-method status="PASS" signature="AppTest2()[pri:0, instance:qaclickacademy.Maven.AppiumTest@90f6bfd]" name="AppTest2" duration-ms="11" started-at="2022-07-25T17:25:28Z" finished-at="2022-07-25T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppTest2 -->
+        <test-method status="PASS" signature="Appium()[pri:0, instance:qaclickacademy.Maven.AppiumTest@90f6bfd]" name="Appium" duration-ms="0" started-at="2022-07-25T17:25:28Z" finished-at="2022-07-25T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium -->
+      </class> <!-- qaclickacademy.Maven.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
