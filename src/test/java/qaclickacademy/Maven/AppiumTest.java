@@ -25,5 +25,13 @@ public class AppiumTest {
 		
 		System.out.println("HERE TO PUSH FROM USER A SIDE");
 	}
+	
+	@Test
+	public void frameworkDevelopment()
+	{
+		System.out.println("from User B architect");
+		
+
+	}
 
 }

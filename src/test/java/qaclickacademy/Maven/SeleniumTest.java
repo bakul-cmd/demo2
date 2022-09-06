@@ -22,4 +22,13 @@ public class SeleniumTest {
 		
 		System.out.println("Learnt Staging");
 	}
+	
+@Test
+	
+	public void architect()
+	{
+		System.out.println("working on release branch");
+		
+		System.out.println("Learnt branching");
+	}
 }
