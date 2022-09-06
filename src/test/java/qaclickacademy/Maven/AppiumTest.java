@@ -33,5 +33,13 @@ public class AppiumTest {
 		
 
 	}
+	
+	@Test
+	public void frameworkDevelopment1()
+	{
+		System.out.println("from User A architect");
+		
+
+	}
 
 }

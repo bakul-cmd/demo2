@@ -31,4 +31,13 @@ public class SeleniumTest {
 		
 		System.out.println("Learnt branching");
 	}
+
+@Test
+
+public void architect2()
+{
+	System.out.println("working on release branch first architect");
+	
+	System.out.println("Learnt branching213321");
+}
 }
