@@ -12,6 +12,8 @@ public class AppiumTest {
 		
 		System.out.println("I am second User");
 		
+		
+		System.out.println("THANK YOU USER B , I AM USER A");
 	}
 	
 	@Test
@@ -20,6 +22,8 @@ public class AppiumTest {
 		System.out.println("Appium Test case 2");
 		
 		System.out.println("I am here to Push from User B side");
+		
+		System.out.println("HERE TO PUSH FROM USER A SIDE");
 	}
 
 }
